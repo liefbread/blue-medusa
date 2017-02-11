@@ -10,7 +10,7 @@ The skyline is scattered with dilpidated brick walls and creeping vines, it is a
 It's this multicultural identity that has truly left its mark. Hundreds of pubs, theme restaurants and take-outs offer a plethora of culinary choices and those who feel hungry for something else can enjoy art galleries, sightseeing, sports or one of the many other recreational venues.
 
 <h3>The Heist</h3>
-The year is 5087OC. The city is covered in a dense fog, a common occurance in Calderon. The moonlight illuminates the west bank of the river as it seems to climb out of the water.  Our motely assortment, a Goblin, a Minotaur, and two Humans have been hired to perform an art heist, they sit in a pub within the theater district, their target, an art gallery two blocks away. Their task is to steal a painting known as the False Chanterelle.
+The year is 5087OC. The city is covered in a dense fog, a common occurance in Calderon. The moonlight illuminates the west bank of the river as it seems to climb out of the water.  Our motely assortment, a Goblin, a Minotaur, a Dark Elf and a Human have been hired to perform an art heist, they sit in a pub within the theater district, their target, an art gallery two blocks away. Their task is to steal a painting known as the False Chanterelle.
 
 <center><img src="https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/e/a/8/600_453580616.jpeg"></center>
 
