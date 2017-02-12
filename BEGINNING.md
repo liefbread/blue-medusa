@@ -1,5 +1,7 @@
 # blue-medusa
 Note-keeping for maze of the blue medusa.
+
+<img src="http://i.imgur.com/uOIDgil.png">
 <h1>Albion</h1>
 <h2>The City of Calderon</h2>
 The city of Calderon was built along the banks of a muddy grey river and is truly a multicultural curiosity. Its spires reach out of the firm clay on which it is built, as it was easier to build up than it was to build down.
